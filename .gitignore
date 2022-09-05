@@ -99,3 +99,4 @@ datapackage
 coverage/
 site/
 tmp/
+!**/*.html
